@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @your294
-- 👀 I’m interested in Java/Python/GO
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java/Python/CPP
+- 🌱 I’m currently learning Java to find a job or with a cpper job
+- 💞️ I’m looking to collaborate on the man who are interested in CS
+- 📫 use can use the e-mail 2548077705@qq.com to reach me
 
 <!---
 your294/your294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
