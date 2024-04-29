@@ -1,4 +1,7 @@
-<img src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description" style="margin: 50px auto; width: 200px; height: 200px; border-radius: 50%;">
+<link rel="stylesheet" type="text/css" href="https://github.com/your294/your294/blob/main/style.css"/>
+
+
+<img class="avatar" src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description">
 
 - 👋 Hi, I’m @your294
 - 👀 I’m interested in Java/Python/CPP
@@ -11,3 +14,5 @@
 your294/your294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
