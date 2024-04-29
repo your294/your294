@@ -1,4 +1,4 @@
-<img src="IMG_0268(20220719-211745).jpg" alt="Description" style="margin: 50px auto; width: 200px; height: 200px; border-radius: 50%;">
+<img src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description" style="margin: 50px auto; width: 200px; height: 200px; border-radius: 50%;">
 
 - 👋 Hi, I’m @your294
 - 👀 I’m interested in Java/Python/CPP
