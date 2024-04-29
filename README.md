@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @your294
 - 👀 I’m interested in Java/Python/CPP
-- 🌱 I’m currently learning Java to find a job or with a cpper job
-- 💞️ I’m looking to collaborate on the man who are interested in CS
+- 🌱 I’m currently learning TypeScript with Vue and React
+- ✔  I'm practice CSS to become a master in CSS to make animation and beatiful pages
+- 💞️ I’m looking to collaborate on the man who are interested in web and webGL
 - 📫 use can use the e-mail 2548077705@qq.com to reach me
 
 <!---
