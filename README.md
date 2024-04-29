@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
 
 
-<img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%;" src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description">
+<img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50% !important;" src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description">
 
 - 👋 Hi, I’m @your294
 - 👀 I’m interested in Java/Python/CPP
