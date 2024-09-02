@@ -73,8 +73,8 @@
       </style>
       
       <div class="container">
-      <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://github.com/your294/your294/blob/main/vidnoz_cartoon_1725262142249.png" alt="Description">
         <h1>Hi there, my name is your294 <div class="hi">👋</div></h1>
+        <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://github.com/your294/your294/blob/main/vidnoz_cartoon_1725262142249.png" alt="Description">
         <p>
         - 👀 I’m interested in TypeScript/JavaScript/CSS</br>
         - 🌱 I’m currently learning TypeScript with Vue and React</br>
