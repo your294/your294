@@ -71,18 +71,26 @@
             animation: none;
           }
         }
+
+        .introduction {
+          display: inline-block;
+          padding-left: 30px;
+        }
+
       </style>
       
       <div class="container">
-      <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="./avatar.png" alt="Description" />
+      <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://github.com/your294/your294/blob/main/avatar.png" alt="Description" />
         <h1>Hi there, my name is your294 <div class="hi">👋</div></h1>
-        <p>
-        - 👀 I’m interested in TypeScript/JavaScript/CSS<br/>
-        - 🌱 I’m currently learning TypeScript with Vue and React<br/>
-        - ✔  I'm practice CSS to become a master in CSS to make animation and beatiful pages<br/>
-        - 💞️ I’m looking to collaborate on the man who are interested in web and webGL<br/>
-        - 📫 use can use the e-mail 2548077705@qq.com to reach me<br/>
-        </p>
+        
+          <p class="introduction">
+          - 👀 I’m interested in TypeScript/JavaScript/CSS<br/>
+          - 🌱 I’m currently learning TypeScript with Vue and React<br/>
+          - ✔  I'm practice CSS to become a master in CSS to make animation and beatiful pages<br/>
+          - 💞️ I’m looking to collaborate on the man who are interested in web and webGL<br/>
+          - 📫 use can use the e-mail <a href="#">2548077705@qq.com</a> to reach me<br/>
+          </p>
+        
       </div>
     </div>
   </foreignObject>
