@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css" href="style.css"/>
-
 <div style="width: 100%;">
-  <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/your294/your294/blob/main/profile.svg">
+    <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 <!-- <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://github.com/your294/your294/blob/main/vidnoz_cartoon_1725262142249.png" alt="Description">
 
