@@ -1,5 +1,6 @@
-<div style="width: 100%;">
+<div style="width: 100%; position: relative;">
   <a href="https://github.com/your294/your294/blob/main/profile.svg">
+    <img src="avatar.png" style="width: 200px; border-radius: 50%; float: right;">
     <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
