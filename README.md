@@ -4,7 +4,7 @@
 <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50% !important;" src="https://github.com/your294/your294/blob/main/IMG_0268(20220719-211745).JPG" alt="Description">
 
 - 👋 Hi, I’m @your294
-- 👀 I’m interested in Java/Python/CPP
+- 👀 I’m interested in TypeScript/JavaScript/CSS
 - 🌱 I’m currently learning TypeScript with Vue and React
 - ✔  I'm practice CSS to become a master in CSS to make animation and beatiful pages
 - 💞️ I’m looking to collaborate on the man who are interested in web and webGL
