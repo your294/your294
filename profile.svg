@@ -80,7 +80,7 @@
       </style>
       
       <div class="container">
-      <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://github.com/your294/your294/blob/main/avatar.png?raw=true" alt="Description" />
+      <img class="avatar" style="margin: 20px auto; height: 200px; width: 200px; border-radius: 50%; float: right; !important;" src="https://raw.githubusercontent.com/your294/your294/main/avatar.png" alt="Description" />
         <h1>Hi there, my name is your294 <div class="hi">👋</div></h1>
         
           <p class="introduction">
